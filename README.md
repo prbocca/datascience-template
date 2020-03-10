@@ -50,6 +50,9 @@ This file structure is based on the [DSSG machine learning pipeline](https://git
 
 ## Content and Structure
 
+Content based in [how-to-structure-a-python-based-data-science-project](https://medium.com/swlh/how-to-structure-a-python-based-data-science-project-a-short-tutorial-for-beginners-7e00bff14f56)
+
+
 		├── README.md          <- The top-level README for developers.
 		├── conf               <- Space for credentials
 		│

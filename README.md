@@ -48,6 +48,11 @@ The purpose of this project is ________. (Describe the main goals of the project
 
 This file structure is based on the [DSSG machine learning pipeline](https://github.com/dssg/hitchhikers-guide/tree/master/sources/curriculum/0_before_you_start/pipelines-and-project-workflow).
 
+Ejemplos que usan el template: 
+* https://github.com/mishaberrien/aam_salary_visualization
+* https://github.com/mishaberrien/tennessee-fuel-quality-analysis
+* https://github.com/mishaberrien/crowdfunding_campaign_selection
+
 ## Content and Structure
 
 Content based in [how-to-structure-a-python-based-data-science-project](https://medium.com/swlh/how-to-structure-a-python-based-data-science-project-a-short-tutorial-for-beginners-7e00bff14f56)

@@ -69,7 +69,7 @@ Content based in [how-to-structure-a-python-based-data-science-project](https://
 		│   ├── 05_model_output<- model output
 		│   └── 06_reporting   <- Reports and input to frontend
 		│
-		├── docs               <- Space for Sphinx documentation
+		├── doc                <- Space for PythonTex documentation
 		│
 		├── notebooks          <- Jupyter notebooks. Naming convention is
 		|                         date YYYYMMDD (for ordering),

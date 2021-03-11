@@ -224,16 +224,10 @@ ylabel("voltage (mV)")
 savefig("figures/ejemplopy.pdf", bbox_inches="tight")
 
 # Include the plot in the current LaTeX document
-#print(r"\begin{center}")
-#print(r"\includegraphics[width=0.65\textwidth]{figures/ejemplopy.pdf}")
-#print(r"\end{center}")
+print(r"\begin{figure}[bhtp]\begin{center}")
+print(r"\includegraphics[width=0.65\textwidth]{figures/ejemplopy.pdf}")
+print(r"\caption{Generada on the fly.}\label{fig:onthefly}")
+print(r"\end{center}\end{figure}")
 \end{pycode}
 
-\begin{figure}[bhtp]
-\begin{center}
-\includegraphics[width=0.65\textwidth]{figures/ejemplopy.pdf}
-\caption{Generada on the fly.}
-\label{fig:onthefly}
-\end{center}
-\end{figure}
 

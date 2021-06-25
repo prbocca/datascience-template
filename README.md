@@ -53,6 +53,9 @@ Ejemplos que usan el template:
 * https://github.com/mishaberrien/tennessee-fuel-quality-analysis
 * https://github.com/mishaberrien/crowdfunding_campaign_selection
 
+Para usar el import y estructurar bien el codigo se recomeinda:
+* https://realpython.com/python-import/
+
 ## Content and Structure
 
 Content based in [how-to-structure-a-python-based-data-science-project](https://medium.com/swlh/how-to-structure-a-python-based-data-science-project-a-short-tutorial-for-beginners-7e00bff14f56)
